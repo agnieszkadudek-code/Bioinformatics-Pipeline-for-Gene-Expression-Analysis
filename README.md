@@ -37,7 +37,7 @@ The tool automates the statistical analysis of gene expression data obtained fro
 | Analysis mode | Statistical tests | Additional methods |
 |---|---|---|
 | Single-gene | Mann–Whitney U, Welch's t-test | Shapiro–Wilk, FDR, Bonferroni |
-| Gene signature | PERMANOVA, MANOVA | PERMDISP, Box's M |
+| Gene signature | PERMANOVA, MANOVA | Shapiro-Wilk, PERMDISP, Box's M |
 
 ## Input Data Format
 
